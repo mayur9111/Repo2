@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D853-684F
+
+ Directory of C:\Users\Pratik\Desktop\MyProject
+
+16-10-2022  21:18    <DIR>          .
+16-10-2022  21:09    <DIR>          ..
+16-10-2022  21:12               394 index.html
+16-10-2022  21:12                 9 text1.txt
+16-10-2022  21:18                 0 text2.txt
+               3 File(s)            403 bytes
+               2 Dir(s)  175,319,543,808 bytes free
